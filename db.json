@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "usr_oxn0cbzxa",
+      "email": "sajid@gmail.com",
+      "password": "sajid12345",
+      "role": "admin",
+      "active": true,
+      "createdAt": "2026-06-06T15:20:25.395Z"
+    }
+  ],
+  "incomes": [],
+  "expenses": []
+}

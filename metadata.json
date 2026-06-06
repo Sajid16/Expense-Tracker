@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "A full-featured server-backed expense tracker with authentication, role permissions, dashboards, and graphs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
